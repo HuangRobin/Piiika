@@ -1,1 +1,1 @@
-# Piiika
+# Piiika do not collect any user behavior data,That's all.
